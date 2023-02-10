@@ -12,7 +12,7 @@ This will create a project structure for cdk apps.
 
 ## L3 construct- @mongodbatlas-awscdk/atlas-basic 
 
-More details on the app on: https://constructs.dev/packages/@mongodbatlas-awscdk/atlas-basic/v/0.1.1?lang=typescript
+More details on the consturct on: https://constructs.dev/packages/@mongodbatlas-awscdk/atlas-basic/v/0.1.1?lang=typescript
 
 ## Deploy this app
 
