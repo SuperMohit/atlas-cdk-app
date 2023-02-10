@@ -16,6 +16,6 @@ This will create a project structure for cdk apps.
 2. `cd atlas-cdk-app`
 3. `yarn`
 4. `export MONGODB_ATLAS_PUBLIC_KEY=<>`
-5. `export MONGODB_ATLAS_PRIVATE_KEY=<reducted>`
-6. `export MONGODB_ATLAS_ORG_ID=<reducted>`
+5. `export MONGODB_ATLAS_PRIVATE_KEY=<>`
+6. `export MONGODB_ATLAS_ORG_ID=<>`
 7. `cdk deploy`
