@@ -10,9 +10,12 @@ https://github.com/projen/projen
 
 This will create a project structure for cdk apps. 
 
-## Deploy the app
+## Deploy this app
 
-`export MONGODB_ATLAS_PUBLIC_KEY=<>`
-`export MONGODB_ATLAS_PRIVATE_KEY=<reducted>`
-`export MONGODB_ATLAS_ORG_ID=<reducted>`
-`npx cdk deploy`
+1. `git clone https://github.com/SuperMohit/atlas-cdk-app.git`
+2. `cd atlas-cdk-app`
+3. `yarn`
+4. `export MONGODB_ATLAS_PUBLIC_KEY=<>`
+5. `export MONGODB_ATLAS_PRIVATE_KEY=<reducted>`
+6. `export MONGODB_ATLAS_ORG_ID=<reducted>`
+7. `cdk deploy`
