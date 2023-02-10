@@ -735,6 +735,31 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
+"@mongodbatlas-awscdk/atlas-basic@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@mongodbatlas-awscdk/atlas-basic/-/atlas-basic-0.1.1.tgz#df0d6f75971c6e3b7a58762212df7bee4204dd3d"
+  integrity sha512-sZDDXFhpD3TTJDn7t7Ryhp2hS2M+7s5GyyJU48X3qi5iP6yz1Oc5uJoXBJfJcOHx2xbShBcHxGxySt2GF+z/5g==
+
+"@mongodbatlas-awscdk/cluster@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@mongodbatlas-awscdk/cluster/-/cluster-1.0.1.tgz#b19b288fc38390f3cdba9e5180f636fc8c89d946"
+  integrity sha512-lalwMTvRhflzDgH80dT3Q0ULSn4jevgx4bWc1MUs00omhEqSMZKsLsqUc1Txt5+pxTfnzsF8qbHm6Tyfz1qtrQ==
+
+"@mongodbatlas-awscdk/database-user@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@mongodbatlas-awscdk/database-user/-/database-user-1.0.1.tgz#2cb715898a0098e8e29122d3e366a4bab521956c"
+  integrity sha512-9f93yR1OVfzwVwrEQX+HyGLpdN2TQ317xRF6xjXprs82nsYGk6cE2f3hY34hTTIIPpu/br32CuDrB/WLPzLz/g==
+
+"@mongodbatlas-awscdk/project-ip-access-list@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@mongodbatlas-awscdk/project-ip-access-list/-/project-ip-access-list-1.0.1.tgz#dd3ffadb9ede9a95fdb60b529665cb9ed9337e9c"
+  integrity sha512-75bbLmMw6Q3nPRtlY5wRtwqPzGFOI1p/FRltOmVfifuqIPPwGDFbpMpdWtXwuFP+US7xQUC7K8035ZYJUO+ONA==
+
+"@mongodbatlas-awscdk/project@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@mongodbatlas-awscdk/project/-/project-1.0.1.tgz#e7b8a7313d8b2ed040799d1629aa5c32a82a8574"
+  integrity sha512-P9BwXdJECa2tqG0zjdAljD8QtWMDXMaALNsjF55zN5OOPPzl5KBSQYsQ22Q98re6Etpqt9Ankgg7U231qFCfig==
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
